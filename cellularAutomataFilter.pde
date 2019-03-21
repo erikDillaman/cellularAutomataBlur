@@ -1,3 +1,8 @@
+/*--------------------------------------------------
+              Cellular Automata Blur
+          Programmed by: Erik Dillaman          
+---------------------------------------------------*/
+
 PImage img;
 Cell[] cellArray;
 int RAD = 1;  // The width / height for neighborhood checking
